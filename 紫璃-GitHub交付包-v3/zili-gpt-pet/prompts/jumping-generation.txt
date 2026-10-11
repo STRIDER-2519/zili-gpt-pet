@@ -1,0 +1,16 @@
+Use case: identity-preserve. Asset: corrected native GPT Pet HOVER JUMP animation strip.
+Input 1 (edit target): current encoded sprite sheet for 紫璃. Preserve exact character, white/lilac flowing hair, violet eyes, pearly dragon horns, pointed ears, flower-knot hair ornament, lilac wings, modest white/lilac detailed frilled dress, stockings and boots, thin anime line work and delicate soft shading. Input 2: approved upright identity and physical-scale reference. Input 3: canonical full-resolution character identity reference. Replace the existing jumping row's prone first and last poses completely. DO NOT copy those prone poses into the new row.
+
+Create EXACTLY FIVE chronological whole-character poses in ONE evenly spaced horizontal row, invisible equal-width slots, consistent physical scale/head size. Transparent background. No text, guides, borders, checkerboard, shadows, floor, motion lines, extra props, hat, drum, hearts, sparks, detached pieces or watermark. Each pose has a generous gap and safe margins, all horns, hair, wings, tail, hands and boots fully visible and separate from neighbors. Not a full atlas.
+
+CRITICAL gameplay contract: the native app plays this jumping row THREE TIMES in succession on hover, then falls back to the separate slow idle row. Hover can also enter from standing work/review states. Prone resting is exclusively the separate IDLE row and MUST NOT appear in any frame of this hover loop. The character never lies down, kneels, sits, touches the floor with hands, stretches horizontally, or jumps while prone. Every pose is upright on two booted feet (or airborne on two bent booted legs). Keep torso vertical and head at the same physical size in all five poses. This is a gentle friendly vertical hop, not flight.
+
+Frame 1: upright anticipation, both boot soles on the common ground baseline, knees slightly flexed, torso vertical, arms relaxed slightly outward, friendly attentive eyes. Full standing silhouette, no deep crouch.
+Frame 2: upright lift-off, both boots just leaving the floor by a small amount, legs close together, hands slightly open for balance.
+Frame 3: upright airborne peak, both boots visibly lifted about one third of a head height above baseline, knees gently bent together, hands open at her sides, soft happy expression, wings only subtly lifted.
+Frame 4: upright descent and gentle landing, boots at the original baseline, knees slightly flexed, vertical torso, arms settling.
+Frame 5: same upright grounded anticipation/settling posture as frame 1, both boots firmly on baseline, matching silhouette, scale and center so repeated hover loops do not pop.
+
+One common fixed camera, character center and ground baseline (except intentional airborne frames 2 and 3). Do not normalize the airborne boots back to the ground. Preserve apparent body and head size: no shrinking at peak, no enlarging on landing. Large upright poses, tiny knee flexion, readable as an upright hop at desktop mini size. Preserve clothing coverage in every pose.
+
+

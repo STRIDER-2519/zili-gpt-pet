@@ -1,0 +1,45 @@
+{
+  "version": "pet-v3",
+  "checked_on": "2026-10-11",
+  "atlas_sha256": "89f4c75fc5bd24ce9f66115fd643746ed6dc48004bc0fddccef574c2e028d671",
+  "encoded_bytes": 2506274,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "required_frames": 73,
+  "transparent_unused_cells": 15,
+  "atlas_structural_check_passed": true,
+  "frame_inspection_passed": true,
+  "complete_pet_quality_gate_passed": true,
+  "native_pets_preflight_passed": true,
+  "independent_visual_review_passed": true,
+  "stored_rgba_identical": true,
+  "updated_rows": [
+    4
+  ],
+  "other_ten_rows_pixel_identical": true,
+  "jump_geometry": {
+    "idle_baseline": 201,
+    "jump_baselines": [
+      201,
+      195,
+      185,
+      202,
+      202
+    ],
+    "airborne_lift_pixels": 17,
+    "landing_delta_pixels": 1
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 022.5 accepted with a reviewed warning",
+    "look direction 067.5 accepted with a reviewed warning",
+    "look direction 112.5 accepted with a reviewed warning",
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 247.5 accepted with a reviewed warning",
+    "look direction 292.5 accepted with a reviewed warning",
+    "157.5->180 diff is a local outlier (3188 pixels vs neighbor average 1498)"
+  ],
+  "scope": "Validated encoded atlas and ordered frames; native trigger rules audited statically. No claim of live native UI playback observation."
+}
